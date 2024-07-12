@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="3769" viewBox="0 0 1328 3769">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_400934" data-name="Rectángulo 400934" width="1328" height="1681.704" transform="translate(0 0)" fill="#ecf6ff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6ede6" stop-opacity="0"/>
+      <stop offset="0.207" stop-color="#f6ede6" stop-opacity="0.769"/>
+      <stop offset="0.473" stop-color="#f6ede6"/>
+      <stop offset="0.768" stop-color="#f6ede6" stop-opacity="0.765"/>
+      <stop offset="1" stop-color="#f6ede6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="f-2" transform="translate(-136 -240)">
+    <g id="Grupo_1100805" data-name="Grupo 1100805">
+      <rect id="Rectángulo_575" data-name="Rectángulo 575" width="1328" height="3769" rx="20" transform="translate(136 240)" fill="#fff"/>
+      <g id="Grupo_1099782" data-name="Grupo 1099782" transform="translate(0.219 -8817.146)">
+        <g id="Enmascarar_grupo_1098651" data-name="Enmascarar grupo 1098651" transform="translate(135.781 10216)" opacity="0.25" clip-path="url(#clip-path)">
+          <path id="Trazado_872965" data-name="Trazado 872965" d="M0,0H1376V1681.7H0Z" transform="translate(-22 0.002)" fill="url(#linear-gradient)"/>
+          <ellipse id="Elipse_11486" data-name="Elipse 11486" cx="461.484" cy="1397.32" rx="461.484" ry="1397.32" transform="translate(-739.969 -1311.07)" fill="#efddcf" opacity="0.813"/>
+          <ellipse id="Elipse_11460" data-name="Elipse 11460" cx="276.721" cy="609.539" rx="276.721" ry="609.539" transform="translate(1046.056 264.492)" fill="#efddcf" opacity="0.888"/>
+          <ellipse id="Elipse_11461" data-name="Elipse 11461" cx="132.415" cy="373.569" rx="132.415" ry="373.569" transform="translate(1221.585 93.714)" fill="#d1ced9" opacity="0.374"/>
+          <path id="Trazado_873082" data-name="Trazado 873082" d="M107.992,0c59.642,0,107.992,130.909,107.992,292.393s-48.35,292.393-107.992,292.393S0,453.878,0,292.393,48.35,0,107.992,0Z" transform="translate(-111.484 1018.425)" fill="#d1ced9" opacity="0.939"/>
+          <path id="Trazado_873111" data-name="Trazado 873111" d="M245.484,0C381.062,0,490.969,270.926,490.969,605.131s-109.907,605.131-245.484,605.131S0,939.336,0,605.131,109.907,0,245.484,0Z" transform="translate(-341.969 935.857)" fill="#efddcf" opacity="0.664"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
