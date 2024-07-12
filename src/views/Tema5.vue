@@ -100,62 +100,134 @@
     p.mb-5(data-aos='fade-right') Artículo 7°. Obligaciones especiales de las entidades vigiladas. Algunas de las obligaciones de las entidades vigiladas, son: 
     .row.justify-content-center.mb-3
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
               .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
               .text-center
                 p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/58.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Entregar el producto o prestar el servicio debidamente. 
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/59.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Suministrar información comprensible y publicidad transparente, clara, veraz, y oportuna, acerca de sus productos y servicios ofrecidos en el mercado. 
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/60.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Abstenerse de incurrir en conductas que conlleven abusos.
     .row.justify-content-center.mb-5
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/61.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Guardar la reserva de la información suministrada por el consumidor financiero y que tenga carácter de reservada. 
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/62.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Atender y dar respuesta oportuna a las solicitudes, quejas o reclamos formulados por los consumidores financieros. 
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/63.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Permitir a sus clientes la consulta gratuita, al menos una vez al mes. 
       .col-lg-3.mb-lg-0.mb-3
-        .tarjeta.card-colors.p-4
+        .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
             .row.justify-content-center.mb-5
-              .col-5: img.mb-3(src='@/assets/curso/temas/57.svg', alt='')
+              .col-5: img.mb-3(src='@/assets/curso/temas/64.svg', alt='')
               .text-center
-                p.mb-0 Suministrar información al público respecto de los Defensores del Consumidor Financiero. 
+                p.mb-0 Desarrollar programas y campañas de educación financiera a sus clientes sobre los diferentes productos y servicios que prestan, obligaciones y derechos de estos y los costos de los productos y servicios que prestan, mercados y tipo de entidades vigiladas.
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.p-4(style="background-color: #201144 ") 
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              p.text-white Para conocer las obligaciones de las entidades vigiladas, lo invitamos a consultar la Ley 1328 de 2009. 
+            .col-lg-4
+              a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                .row.justify-content-around.align-items-center
+                  .col-1
+                    .anexo__icono
+                      img(src="@/assets/curso/temas/link.svg")
+                  .anexo__texto
+                    p Ley 1328 de 2009
+    Separador
+    #t_5_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 5.3  Derechos #[em Habeas Data] 
+    p.mb-5(data-aos='fade-right') El Decreto 090 de enero de 2018, impone diferentes obligaciones a las personas, que manejen bases de datos que contengan datos personales: 
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-7.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/65.svg', alt='')
+      .col-lg-8(data-aos="fade-left")
+        ul.lista-ul--color
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Tener un manual de políticas de manejo de datos personales, para implementar el cumplimiento de la Ley. 
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Contar con autorización del titular de los datos personales. 
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Utilizar avisos de privacidad. 
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Adoptar medidas de seguridad para proteger la información. 
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Indicar si realizan cesión, transferencia, transmisión internacional de datos. 
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Disponer de un canal PQRS, que permita al titular solicitar la supresión, modificación o revocación de su información. 
+          li.d-flex
+            i.fas.fa-check-circle
+            p.mb-0 Nombrar un oficial de cumplimiento. 
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.p-4(style="background-color: #dfbba0 ").mb-4
+          .row.justify-content-center.align-items-center
+            .col-lg-2.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/66.svg', alt='')
+            .col-lg-10
+              p.mb-0 Todo esto teniendo en cuenta que la finalidad de la Ley es proteger la intimidad de las personas naturales, que cada uno es dueño de su propia información y decide de manera voluntaria qué información comparte y cómo autoriza que sea manejada. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </template>
 
