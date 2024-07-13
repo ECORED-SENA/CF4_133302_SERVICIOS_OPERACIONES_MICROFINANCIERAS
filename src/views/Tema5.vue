@@ -10,14 +10,13 @@
       .col-lg-4.mb-lg-0.mb-3
         p.mb-0 La Ley del consumidor financiero, es la que faculta a la Superintendencia Financiera de Colombia para determinar las cláusulas y prácticas abusivas, que no se pueden incorporar en contratos de adhesión en el consumidor financiero (todo cliente, usuario o cliente potencial de las entidades financieras). 
       .col-lg-8
-        .col-lg-8
-          div(style="background-color: #a6eae8")
-            .row.justify-content-center.align-items-center
-              .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/43.svg', alt='')
-              .col-lg-7
-                .p-3
-                  h5 Todas las personas son consumidores financieros de un modo u otro, como clientes o usuarios. 
-                  p.mb-0 Ahora, la Ley de #[em Habeas Data], otorga a los ciudadanos el derecho a conocer, actualizar, rectificar y suprimir los datos personales que se encuentran almacenados en bases de datos y archivos en entidades financieras.
+        div(style="background-color: #a6eae8")
+          .row.justify-content-center.align-items-center
+            .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/43.svg', alt='')
+            .col-lg-7
+              .p-3
+                h5 Todas las personas son consumidores financieros de un modo u otro, como clientes o usuarios. 
+                p.mb-0 Ahora, la Ley de #[em Habeas Data], otorga a los ciudadanos el derecho a conocer, actualizar, rectificar y suprimir los datos personales que se encuentran almacenados en bases de datos y archivos en entidades financieras.
     p.mb-5(data-aos='fade-right') Las personas, al tener información en diferentes entidades, sean públicas o privadas, son susceptibles a que sus datos sean tratados con responsabilidad y protección.  
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 5.1  Derechos

@@ -36,87 +36,153 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '',
+        titulo: 'Administración de cartera',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: '',
+        titulo: 'Gestión de cobranzas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Etapas',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Consecuencias de la cartera morosa',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Consolidación de información',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Reportes',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Informes',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '',
+        titulo: ' Información de clientes deudores ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '',
+        titulo: 'Hábitos de pago',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Capacidad',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Voluntad de pago',
+            hash: 't_4_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '',
+        titulo: 'Ley del consumidor financiero y Ley de Habeas Data ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Derechos',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Obligaciones',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Derechos <em>Habeas Data</em> ',
+            hash: 't_5_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: '',
+        titulo: 'Estrategias de recuperación de cartera',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Técnicas de cobranzas',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Servicio al cliente ',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Procesos de negociación',
+            hash: 't_6_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: '',
+        titulo: 'Canales de comunicación organizacional ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: '',
+        titulo: 'Objeciones',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema9',
         numero: '9',
-        titulo: '',
+        titulo: 'Proyecciones y acuerdos de pago',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema10',
         numero: '10',
-        titulo: '',
+        titulo: 'Políticas de normalización de cartera ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema11',
         numero: '11',
-        titulo: '',
+        titulo: 'Procesos y procedimientos para recaudo cartera ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema12',
         numero: '12',
-        titulo: '',
+        titulo: 'Informe de cobranza ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema13',
         numero: '13',
-        titulo: '',
+        titulo: 'Evaluación de la gestión de cobranza ',
         desarrolloContenidos: true,
       },
     ],

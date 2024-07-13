@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 65%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
     right: 30%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 10%
 
 
 @keyframes float1
@@ -51,6 +56,36 @@
   background-position: start
   background-repeat: no-repeat
   background-size: cover
+.f-6
+  background-image: url(..//assets/curso/temas/f-6.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
+.f-8
+  background-image: url(..//assets/curso/temas/f-8.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
+.f-9
+  background-image: url(..//assets/curso/temas/f-9.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
+.f-11
+  background-image: url(..//assets/curso/temas/f-11.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
+.f-12
+  background-image: url(..//assets/curso/temas/f-12.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
+.f-13
+  background-image: url(..//assets/curso/temas/f-13.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
 .slyder-colors
   background-image: url(..//assets/curso/temas/slyder-colors.png)
   background-position: start
@@ -58,6 +93,11 @@
   background-size: cover
 .card-colors
   background-image: url(..//assets/curso/temas/card-colors.png)
+  background-position: start
+  background-repeat: no-repeat
+  background-size: cover
+.card-pregunta
+  background-image: url(..//assets/curso/temas/card-pregunta.svg)
   background-position: start
   background-repeat: no-repeat
   background-size: cover
@@ -90,3 +130,45 @@
   background-color: #201144
   &:before 
     background-color: #d2f5f4
+.titulo-tres
+  span.color-azul
+    color: #22CAC5
+  h3
+    color: white
+    margin-bottom: 0
+    margin-left: 50px
+    margin-right: 20px
+
+  
+  display: inline-block
+  background-color: #201144
+  border-radius: 0px 40px 40px 0px 
+  position: relative
+  padding: .5rem
+  &:before
+    position: absolute
+    content: url(../assets/curso/temas/icon.svg)
+    left: 0
+    top: 0 
+    width: 65px
+    transform: translate(-15% , -10%)
+.tabs-a__tab
+  background-color: #201144
+  .tabs-a__tab__text
+    color: white
+.tabs-a.color-acento-botones .tabs-a__tab__selected
+  .tabs-a__tab__text
+    color: $color-sistema-texto
+.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content , .linea-tiempo-d__item__content__title
+    background-color: #e8faf9 !important
+    span
+      color: $color-sistema-texto !important
+.linea-tiempo-d__item__number
+  background-color: $color-secundario
+  span
+    color: white
+.linea-tiempo-d__item__content__title
+  background-color: $color-secundario
+  span
+    color: white
