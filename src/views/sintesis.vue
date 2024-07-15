@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Esquema general del componente formativo, que enuncia las temáticas desarrolladas y destaca aspectos clave estudiados. Tema central: recuperar cartera. Temas integradores: administración de cartera, gestión de cobranza, hábitos de pago, información de clientes deudores, Ley del consumidor financiero y Habeas Data, estrategia de recuperación de cartera, canales de comunicación organizacional, objeciones, proyecciones y acuerdos de pago, políticas de normalización de cartera, procesos y procedimientos para recaudo de cartera, informe de cobranza y evaluación de la gestión de cobranza.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

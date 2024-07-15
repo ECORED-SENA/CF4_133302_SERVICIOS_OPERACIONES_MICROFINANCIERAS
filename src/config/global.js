@@ -233,32 +233,90 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema:
+        'Administración de cartera-Información de clientes deudores-Políticas de normalización de cartera',
+      referencia:
+        'Morales Castro, J. A. y Castro, A. M. (2015). Crédito y cobranza. Grupo Editorial Patria.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/39380',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Canales de comunicación organizacional',
+      referencia:
+        'Blanco, G. C. (2013). Comunicación y atención al cliente. Macmillan Iberia, S.A.',
+      tipo: 'Libro',
+      descarga:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/42955',
+    },
+    {
+      tema: 'Objeciones',
+      referencia:
+        'Brachfield, P. (2019). Credit management: cómo conceder créditos a clientes y evitar los impagados. FC Editorial.',
+      tipo: 'Libro',
+      descarga:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/131011',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Eficiencia operativa',
+      significado: 'mide la eficiencia en ciertos rubros de la empresa.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Liquidez',
+      significado: 'mide la capacidad de pago en efectivo de una empresa.',
+    },
+    {
+      termino: 'Mora',
+      significado:
+        'también llamado morosidad bancaria, el cual es un indicador de riesgo que los deudores de los bancos no cumplan con sus obligaciones de pago con los créditos adquiridos.',
+    },
+    {
+      termino: 'Rentabilidad',
+      significado: 'mide las utilidades o ganancias de una empresa.',
+    },
+    {
+      termino: 'Solvencia',
+      significado:
+        'mide la habilidad que tiene la empresa para cubrir sus compromisos inmediatos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Blanco, G. C. (2013). Comunicación y atención al cliente. Macmillan Iberia, S.A.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/42955',
+    },
+    {
+      referencia:
+        'Brachfield, P. (2019). Credit management: cómo conceder créditos a clientes y evitar los impagados. FC Editorial.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/131011',
+    },
+    {
+      referencia: 'Congreso de Colombia (2209) Ley 1329 de 2009',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36841',
+    },
+    {
+      referencia:
+        'Gulli, H. (1999). Microfinanzas y pobreza. Banco Interamericano de Desarrollo.',
+    },
+    {
+      referencia:
+        'Molina, V. (1995). Estrategias de cobranza en época de crisis. Editorial ISEF.',
+    },
+    {
+      referencia:
+        'Morales Castro, J. A. y Castro, A. M. (2015). Crédito y cobranza. Grupo Editorial Patria.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/39380',
+    },
+    {
+      referencia:
+        'Sapag, N. (2007). Proyectos de inversión: formulación y evaluación.',
     },
   ],
   creditos: [
@@ -281,8 +339,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Vilma Andrea Baracaldo Neira',
+          cargo: 'Experta Temática',
+          centro: 'Centro de Servicios Financieros - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -291,12 +354,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Blanca Flor Tinoco Torres',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortes Garcia',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -306,7 +369,7 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Edgar Mauricio Cortes Garcia',
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
