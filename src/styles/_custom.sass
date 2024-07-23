@@ -172,3 +172,13 @@
   background-color: $color-secundario
   span
     color: white
+
+.banner-principal .tarjeta
+  // Media query para tablets y dispositivos más pequeños
+  @media (max-width: 991px)
+    background-image: none !important
+    background-color: $color-secundario !important
+
+  // Mantenemos el margen inferior
+  &.mb-5
+    margin-bottom: 3rem  // Asumiendo que 1rem = 16px, 3rem sería equivalente a mb-5 en muchos frameworks
