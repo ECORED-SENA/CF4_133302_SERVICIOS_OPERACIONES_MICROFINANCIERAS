@@ -29,7 +29,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/110.svg', alt='')
             .col-lg-10
-              p.mb-0 En las entidades financieras se tienen concertaciones con los clientes para un recaudo exitoso, el cliente por ejemplo, puede dividir su pago mensual en pequeñas cuotas o tipos de recaudo diarias o semanales, incluso quincenal para su facilidad de pago, evitando así que se puedan juntar 2 cuotas y pase a otro tipo de cobro como casas de cobranzas. 
+              p.mb-0 En las entidades financieras se tienen concertaciones con los clientes para un recaudo exitoso, el cliente por ejemplo, puede dividir su pago mensual en pequeñas cuotas o tipos de recaudo diarias o semanales, incluso quincenales para su facilidad de pago, evitando así que se puedan juntar 2 cuotas y pase a otro tipo de cobro como casas de cobranzas. 
     p.mb-5(data-aos='fade-right') Lo ideal para una entidad financiera es evitar al máximo recoger o cobrar la garantía que ha dejado el microempresario, porque en muchas ocasiones sale más costoso y tiene mayor trámite. 
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade-right").mb-lg-0.mb-3

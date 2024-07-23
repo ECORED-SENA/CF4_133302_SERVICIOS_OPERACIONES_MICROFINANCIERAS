@@ -17,12 +17,12 @@
             ul.lista-ul--color
               li.d-flex
                 i.fas.fa-check-circle
-                p.mb-0 #[b Preventiva:] cciones que se generan con antelación a la fecha de vencimiento de los microcréditos, con el propósito de recordar la fecha límite del próximo pago o vencimiento. Esta gestión la podrán realizar los asesores de la entidad financiera o personas externas especializadas, a través de llamadas telefónicas, o mensajes de textos. 
+                p.mb-0 #[b Preventiva:] acciones que se generan con antelación a la fecha de vencimiento de los microcréditos, con el propósito de recordar la fecha límite del próximo pago o vencimiento. Esta gestión la podrán realizar los asesores de la entidad financiera o personas externas especializadas, a través de llamadas telefónicas, o mensajes de textos. 
               li.d-flex
                 i.fas.fa-check-circle
                 p.mb-0 #[b Administrativa:] se indaga al cliente cuáles fueron las razones que lo llevaron al no pago de las obligaciones, se brinda orientación y se definen compromisos de pago que permitan la normalización de las obligaciones crediticias. 
           div(titulo="Gestión judicial ")
-            p Estas acciones judiciales se comienzan cuando no se logra colocar al día las obligaciones o cuando el banco considera que existe un riesgo jurídico o financiero que lo amerite. 
+            p Estas acciones judiciales comienzan cuando no se logra colocar al día las obligaciones o cuando el banco considera que existe un riesgo jurídico o financiero que lo amerite. 
             
           div(titulo="Gestión dual ")
             p Son todas aquellas actividades que se realizan de manera simultánea tanto en la entidad financiera, como por parte de los agentes externos especializados como las casas de cobranzas, cuyo objetivo es colocar las obligaciones al día que se consideran poco probables de pagar. 

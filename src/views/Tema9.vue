@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 9
       h1 Proyecciones y acuerdos de pago
-    p.mb-5(data-aos='fade-right') Las proyecciones de pago son aquellas concertaciones que llegan a acordar el cliente con el asesor de microcrédito, una vez el cliente comience a quedar en mora, inclusive puede darse poco antes de su vencimiento si el cliente manifiesta que no puede pagar a la fecha estipulada. Estas proyecciones siempre serán dadas por el cliente, puesto que es él quien sabe realmente cuándo puede pagar, sin embargo, no pueden pasar algunas fechas que estipule la entidad de acuerdo con sus políticas, porque existen rangos de edades de mora para los cuales ya tendrán otro proceso de cobro. 
+    p.mb-5(data-aos='fade-right') Las proyecciones de pago son aquellas concertaciones que llegan a acordar el cliente con el asesor de microcrédito, una vez que el cliente comience a quedar en mora, inclusive puede darse poco antes de su vencimiento si el cliente manifiesta que no puede pagar a la fecha estipulada. Estas proyecciones siempre serán dadas por el cliente, puesto que es él quien sabe realmente cuándo puede pagar, sin embargo, no pueden pasar algunas fechas que estipule la entidad de acuerdo con sus políticas, porque existen rangos de edades de mora para los cuales ya tendrán otro proceso de cobro. 
     .row.justify-content-center.mb-5
       .col-lg-3.col-6: img(src='@/assets/curso/temas/93.png', alt='')
       .col-lg-4.mb-lg-0.mb-3
@@ -15,7 +15,7 @@
           .d-flex.justify-content-center
             .p-1(style="background-color: #201144 ").mb-4
               h4.text-white.mb-0 Recursos
-          p.text-center Dentro de los recursos que se cuentan en las proyecciones de pago, tenemos: las llamadas, las visitas, los formatos de compromisos de pagos firmadas por el cliente y el asesor, mensajes de texto, entre otros.  
+          p.text-center Dentro de los recursos que se cuentan en las proyecciones de pago, tenemos: las llamadas, las visitas, los formatos de compromisos de pagos firmados por el cliente y el asesor, mensajes de texto, entre otros.  
       .col-lg-4.mb-lg-0.mb-3
         .tarjeta.card-colors.p-4.h-100
           img.m-auto(src='@/assets/curso/temas/95.svg', alt='' style="width: 90px").mb-3

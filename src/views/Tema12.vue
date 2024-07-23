@@ -55,9 +55,9 @@
         p Antes de la realización de un informe de cobranza, se debe realizar la respectiva gestión de cobranzas, y para ello se deben tener en cuenta los siguientes pasos: 
         LineaTiempoD.color-primario
           .text-small(numero="1" titulo="Preparación y planeación ")
-            p.mb-0 Se tendrán en cuenta aspectos como el cálculo de los intereses en mora, análisis de las garantías presentadas por el cliente al momento del desembolso y la edad de mora del microcrédito.  
+            p.mb-0 Se tendrán en cuenta aspectos como el cálculo de los intereses en mora, el análisis de las garantías presentadas por el cliente al momento del desembolso y la edad de mora del microcrédito.  
           .text-small(numero="2" titulo="Comunicación y negociación ")
-            p.mb-0 Posteriormente, se procede a establecer contacto directo con el cliente, se verifica con él las razones del no pago, se escucha y se toma nota de las razones entregadas por el cliente; se le recuerdan los costos en que está incurriendo por la mora y la honorabilidad que tiene frente a la entidad. 
+            p.mb-0 Posteriormente, se procede a establecer contacto directo con el cliente, se verifican con él las razones del no pago, se escucha y se toma nota de las razones entregadas por el cliente; se le recuerdan los costos en que está incurriendo por la mora y la honorabilidad que tiene frente a la entidad. 
           .text-small(numero="3" titulo="Compromiso y seguimiento ")
             p.mb-0 Es fundamental hacer un acta de negociación, allí se dejan los compromisos adquiridos en términos de cumplimiento (fechas y valor), y si hay lugar a garantías adicionales. 
           .text-small(numero="4" titulo="Cobro pre jurídico y jurídico ")

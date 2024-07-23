@@ -62,7 +62,7 @@
             p Se da de manera presencial, virtual o telefónica. En todos los casos debe ser de excelente calidad, hacer sentir al cliente lo mejor y aclararle sus inquietudes y sugerencias será el objetivo principal. 
               br
               br
-              |Para microfinanzas, la atención al cliente se podría afirmar que es presencial en la mayoría del tiempo, porque hay una cercanía entidad financiera (asesor) con el cliente desde el primer momento, sin embargo, en el transcurso del tiempo, las llamadas telefónicas son de gran importancia. 
+              |Para microfinanzas, la atención al cliente se podría afirmar que es presencial en la mayoría del tiempo, porque hay una cercanía de la entidad financiera (asesor) con el cliente desde el primer momento, sin embargo, en el transcurso del tiempo, las llamadas telefónicas son de gran importancia. 
           .col-lg-6.col-7
             figure
               img(src='@/assets/curso/temas/83.png', alt='')
@@ -93,7 +93,7 @@
         .row.justify-content-center
           .col-lg-6.mb-4.mb-md-0
             h4 Canales externos de reclamación 
-            p Son todos aquellos canales ajenos a la empresa/entidad financiera que un cliente puede dirigir su queja o reclamo, pueden ser aquellos que vigilen o controlen a estos organismos o aquellos que se pueden hacer públicamente, por ejemplo, las redes sociales. 
+            p Son todos aquellos canales ajenos a la empresa/entidad financiera donde un cliente puede dirigir su queja o reclamo. Pueden ser aquellos que vigilen o controlen a estos organismos o aquellos que se pueden hacer públicamente, por ejemplo, las redes sociales. 
               br
               br
               |En el caso de las entidades financieras, están vigiladas y supervisadas por autoridades que intervienen en su funcionamiento y que protegen al consumidor financiero, en este caso se encuentra la Superintendencia Financiera de Colombia, donde el consumidor financiero puede hacer llegar su queja o reclamo cuando la entidad financiera no ha dado respuesta, en el caso de las cooperativas está la Superintendencia de la Economía Solidaria. 

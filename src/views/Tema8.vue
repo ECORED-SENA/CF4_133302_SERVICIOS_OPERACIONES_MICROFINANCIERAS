@@ -109,7 +109,7 @@
                 p.mb-0 Lamentamos su situación, pero desafortunadamente eso no lo exonera de su obligación. 
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 Estando al día con nosotros seremos una excelente referencia en el caso que requiera solicitar nuevos créditos. 
+                p.mb-0 Estando al día con nosotros, seremos una excelente referencia en el caso que requiera solicitar nuevos créditos. 
     .row.justify-content-center.mb-5
       .col-lg-8
         p.mb-4 Es muy importante evitar los famosos impagos por su peligro para la entidad: 

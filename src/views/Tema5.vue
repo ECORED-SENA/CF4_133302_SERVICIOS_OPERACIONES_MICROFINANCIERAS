@@ -54,7 +54,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.p-4(style="background-color: #201144 ")
-    p.mb-5(data-aos='fade-right') Ley de Habeas Data. Dentro de los derechos del ciudadano dueño de la información, se constituyen siete ítems: 
+    p.mb-5(data-aos='fade-right') Ley de #[em Habeas Data]. Dentro de los derechos del ciudadano dueño de la información, se constituyen siete ítems: 
     .row.justify-content-center.mb-5
       .col-lg-10
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -133,7 +133,7 @@
             .row.justify-content-center.mb-5
               .col-5: img.mb-3(src='@/assets/curso/temas/61.svg', alt='')
               .text-center
-                p.mb-0 Guardar la reserva de la información suministrada por el consumidor financiero y que tenga carácter de reservada. 
+                p.mb-0 Guardar la reserva de la información suministrada por el consumidor financiero que tenga carácter de reservada. 
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta.card-colors.p-4.h-100
           .d-flex.align-items-center
@@ -154,7 +154,7 @@
             .row.justify-content-center.mb-5
               .col-5: img.mb-3(src='@/assets/curso/temas/64.svg', alt='')
               .text-center
-                p.mb-0 Desarrollar programas y campañas de educación financiera a sus clientes sobre los diferentes productos y servicios que prestan, obligaciones y derechos de estos y los costos de los productos y servicios que prestan, mercados y tipo de entidades vigiladas.
+                p.mb-0 Desarrollar programas y campañas de educación financiera a sus clientes sobre los diferentes productos y servicios que prestan, obligaciones y derechos de éstos y los costos de los productos y servicios que prestan, mercados y tipo de entidades vigiladas.
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.p-4(style="background-color: #201144 ") 
@@ -162,7 +162,7 @@
             .col-lg-8
               p.text-white Para conocer las obligaciones de las entidades vigiladas, lo invitamos a consultar la Ley 1328 de 2009. 
             .col-lg-4
-              a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36841')" target="_blank")
                 .row.justify-content-around.align-items-center
                   .col-1
                     .anexo__icono

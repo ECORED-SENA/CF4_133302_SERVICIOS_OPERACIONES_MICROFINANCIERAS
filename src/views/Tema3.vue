@@ -19,7 +19,7 @@
         .row.justify-content-center
           .col-lg-6.mb-4.mb-md-0
             h4 Expedientes 
-            p Es la recopilación de documentos que le permiten a una entidad financiera un conocimiento del cliente más a profundidad en variables tales como identificación, situación económica, documentos firmados por el cliente que son generados por la entidad, como formularios, pagarés, carta de instrucciones y otros a que haya lugar, inclusive fotos del negocio, balances etc. Estos documentos deben reflejar la capacidad de pago del cliente y el posible riesgo para la entidad microfinanciera. 
+            p Es la recopilación de documentos que le permiten a una entidad financiera un conocimiento del cliente más a profundidad en variables tales como identificación, situación económica, documentos firmados por el cliente que son generados por la entidad, como formularios, pagarés, carta de instrucciones y otros a que haya lugar, inclusive fotos del negocio, balances, etc. Estos documentos deben reflejar la capacidad de pago del cliente y el posible riesgo para la entidad microfinanciera. 
           .col-lg-6.col-7
             figure
               img(src='@/assets/curso/temas/33.png', alt='')
@@ -56,14 +56,14 @@
             p  Es un informe financiero que presenta un detalle de los flujos de ingresos y egresos de dinero que tiene una empresa en un período dado. 
               br
               br
-              |Para los microempresarios, los ingresos serán los provenientes a las ventas de su microempresa, sin embargo, se podrá tener en cuenta los ingresos adicionales que pueda tener soporte y que los reciba de manera constante. 
+              |Para los microempresarios, los ingresos serán los provenientes a las ventas de su microempresa, sin embargo, se podrán tener en cuenta los ingresos adicionales que pueda tener soporte y que los reciba de manera constante. 
           .col-lg-6.col-7
             figure
               img(src='@/assets/curso/temas/37.png', alt='')
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/38.svg', alt='')
       .col-lg-5
-        p.mb-3(data-aos='fade-right') En la capacidad de pago, es importante tener en cuenta otro aspecto importante, y es el tipo de vivienda que tiene el cliente, si es propia y la está pagando o si es en arriendo o si por el contrario se encuentra libre de deuda. No se deben dejar de lado los servicios públicos o si tiene empleada del servicios o condiciones de servicios especiales. 
+        p.mb-3(data-aos='fade-right') En la capacidad de pago, es importante tener en cuenta otro aspecto importante, y es el tipo de vivienda que tiene el cliente, si es propia y la está pagando o si es en arriendo o si por el contrario se encuentra libre de deuda. No se deben dejar de lado los servicios públicos o si tiene empleados de servicios o condiciones de servicios especiales. 
         .tarjeta.p-4(style="background-color: #d2f5f4 ")
           p.mb-0 Como complemento de esta temática, lo invitamos a consultar el capítulo 8 del libro Crédito y cobranza, el cual se encuentra en el material complementario. 
 

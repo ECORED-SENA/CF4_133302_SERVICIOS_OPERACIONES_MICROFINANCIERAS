@@ -42,7 +42,7 @@
           div(titulo="Segmentación de clientes ")
             p Definir muy bien la segmentación de los clientes: esto ayudará en los costos y en la probabilidad de pago. 
           div(titulo="Canales de comunicación ")
-            p Canales de comunicación 
+            p Establecer nuevos canales de comunicación con el cliente, el aprovechamiento de la tecnología hará una comunicación más efectiva en la recuperación de cartera. 
           div(titulo="Crear productos ")
             p Crear productos ajustados a los clientes de hoy: los clientes, al quedar en mora, lo hacen por diferentes razones, y para estos eventos, es necesario que las entidades ofrezcan diferentes productos que ayuden a los clientes en sus pagos y a las entidades a recuperar la cartera. Algunos productos son: 
             ul.lista-ul--color
@@ -60,7 +60,7 @@
           div(titulo="Procesos estandarizados")
             p Tener procesos estandarizados de cobranzas: esto hace que mejoren los procesos de recuperación de cartera. 
           div(titulo="Tecnología de punta")
-            p Utilizar tecnología de punta en todos los procesos: se debe automatizar y mejorar el proceso de cobranza; las herramientas más usadas son sistema de cobranza integral y el marcador predictivo. 
+            p Utilizar tecnología de punta en todos los procesos: se debe automatizar y mejorar el proceso de cobranza; las herramientas más usadas son sistemas de cobranza integral y el marcador predictivo. 
           div(titulo="Gestión de cobranza ")
             p Personal moderno y capacitado para la gestión de cobranza: el asesor financiero, en nuestro caso asesor microfinanciero, es quien desarrolla la labor de cobranza generalmente, porque es él quien conoce al cliente desde la colocación del crédito y tiene un mayor conocimiento de él. 
           div(titulo="Indicadores de gestión ")
