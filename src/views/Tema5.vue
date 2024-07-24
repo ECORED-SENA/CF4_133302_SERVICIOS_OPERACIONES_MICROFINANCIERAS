@@ -18,9 +18,11 @@
                 h5 Todas las personas son consumidores financieros de un modo u otro, como clientes o usuarios. 
                 p.mb-0 Ahora, la Ley de #[em Habeas Data], otorga a los ciudadanos el derecho a conocer, actualizar, rectificar y suprimir los datos personales que se encuentran almacenados en bases de datos y archivos en entidades financieras.
     p.mb-5(data-aos='fade-right') Las personas, al tener información en diferentes entidades, sean públicas o privadas, son susceptibles a que sus datos sean tratados con responsabilidad y protección.  
+
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 5.1  Derechos
     p.mb-5(data-aos='fade-right') Ley del consumidor financiero. Artículo 5°. Derechos de los consumidores financieros. Sin perjuicio de los derechos consagrados en otras disposiciones legales vigentes, los consumidores financieros tendrán, durante todos los momentos de su relación con la entidad vigilada, derechos. Algunos de los más relevantes, son: 
+    p.mb-3 &nbsp;
     .slyder-colors.mn.p-5.mb-5
       .row.justify-content-center
         .col-lg-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/44.png', alt='')
@@ -51,9 +53,25 @@
                 .col-4
                   img(src='@/assets/curso/temas/49.svg' alt='AvatarTop')
               p.text-center Presentar de manera respetuosa, consultas, peticiones, solicitudes, quejas o reclamos ante la entidad vigilada, el defensor del Consumidor Financiero, la Superintendencia Financiera de Colombia y los organismos de autorregulación. 
-    .row.justify-content-center.mb-5
+    //.row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.p-4(style="background-color: #201144 ")
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.p-4(style="background-color: #201144 ") 
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              p.text-white Para conocer las obligaciones de las entidades vigiladas, lo invitamos a consultar la Ley 1328 de 2009. 
+            .col-lg-4
+              a.anexo.mb-4(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36841" target="_blank")
+                .row.justify-content-around.align-items-center
+                  .col-1
+                    .anexo__icono
+                      img(src="@/assets/curso/temas/link.svg")
+                  .anexo__texto
+                    p Ley 1328 de 2009
+                    
     p.mb-5(data-aos='fade-right') Ley de #[em Habeas Data]. Dentro de los derechos del ciudadano dueño de la información, se constituyen siete ítems: 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -162,7 +180,7 @@
             .col-lg-8
               p.text-white Para conocer las obligaciones de las entidades vigiladas, lo invitamos a consultar la Ley 1328 de 2009. 
             .col-lg-4
-              a.anexo.mb-4(:href="obtenerLink('https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36841')" target="_blank")
+              a.anexo.mb-4(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36841" target="_blank")
                 .row.justify-content-around.align-items-center
                   .col-1
                     .anexo__icono
