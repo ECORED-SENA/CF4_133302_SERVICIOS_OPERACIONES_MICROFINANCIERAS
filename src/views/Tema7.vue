@@ -28,21 +28,21 @@
               img(src='@/assets/curso/temas/80.png', alt='')
         .row.justify-content-center
           .col-lg-6.mb-4.mb-md-0
-            h4 Blogs 
-            p O revista empresarial, es uno de los canales más versátiles y amigables, aquí se pueden adaptar las secciones o contenidos que la empresa desee. Generalmente se utiliza para comunicar noticias corporativas, contenido informativo y hasta contenido interactivo, eventos empresariales, entre otros. 
+            h4.fst-italic Blogs 
+            p Revista empresarial, es uno de los canales más versátiles y amigables, aquí se pueden adaptar las secciones o contenidos que la empresa desee. Generalmente se utiliza para comunicar noticias corporativas, contenido informativo y hasta contenido interactivo, eventos empresariales, entre otros. 
           .col-lg-6.col-7
             figure
               img(src='@/assets/curso/temas/81.png', alt='')
         .row.justify-content-center
           .col-lg-6.mb-4.mb-md-0
-            h4 Email marketing 
-            p Este email se enfoca en enviar mensajes cuya finalidad es adquirir nuevos clientes, fidelizar a los actuales e interactuar con los contactos. 
+            h4 #[i Email marketing] 
+            p Este #[i email] se enfoca en enviar mensajes cuya finalidad es adquirir nuevos clientes, fidelizar a los actuales e interactuar con los contactos. 
               br
               br
               |Los correos son esenciales para el crecimiento y gestión del negocio. 
               br
               br
-              |Los objetivos del email marketing son:
+              |Los objetivos del #[i email marketing] son:
             ul.lista-ul--color
               li.d-flex.mb-1
                 i.fas.fa-check-circle

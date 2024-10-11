@@ -129,7 +129,7 @@
                 i.fas.fa-check-circle
                 p.mb-0 Los intereses causados por el cambio de fecha, deberán ser cancelados por el cliente o autorizar cargarlos a la siguiente cuota.
           .col-lg-5.col-7: img(src='@/assets/curso/temas/106.png', alt='')
-    p.mb-5(data-aos='fade-right') Toda organización, empresa o entidad financiera que otorgue préstamos, dentro de su política crediticia y cobranza deberá contener la normalización de la cartera, para profundizar en el tema se recomienda hacer el análisis de los puntos fuertes en la cobranza, expuestos en el libro Crédito y Cobranza, el cual se encuentra en el material complementario. 
+    p.mb-5(data-aos='fade-right') Toda organización, empresa o entidad financiera que otorgue préstamos, dentro de su política crediticia y cobranza deberá contener la normalización de la cartera. 
     
 
 </template>

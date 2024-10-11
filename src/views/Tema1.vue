@@ -153,7 +153,7 @@
                 td 100 % del saldo total 
       .col-lg-7(data-aos="fade-left")
         img(src='@/assets/curso/temas/16.svg', alt='')
-        p Como lo dicen Morales y Castro (2015), cobranza es toda una gestión que tiene la responsabilidad de ayudar al mantenimiento de las entidades financieras, y para ampliar la información, lo invitamos a consultar el capítulo 6 del libro Crédito y cobranza, el cual se encuentra en el material complementario. 
+        p Como lo dicen Morales y Castro (2015), cobranza es toda una gestión que tiene la responsabilidad de ayudar al mantenimiento de las entidades financieras.
 
 
 

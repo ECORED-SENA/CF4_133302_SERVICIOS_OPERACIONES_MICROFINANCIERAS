@@ -100,7 +100,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Ley del consumidor financiero y Ley de Habeas Data ',
+        titulo: 'Ley del consumidor financiero y Ley de <i>Habeas Data</i> ',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -233,29 +233,11 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Administración de cartera-Información de clientes deudores-Políticas de normalización de cartera',
+      tema: 'Ley del consumidor financiero y Ley de <i>Habeas Data</i>',
       referencia:
-        'Morales Castro, J. A. y Castro, A. M. (2015). Crédito y cobranza. Grupo Editorial Patria.',
-      tipo: 'Libro',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/39380',
-    },
-    {
-      tema: 'Canales de comunicación organizacional',
-      referencia:
-        'Blanco, G. C. (2013). Comunicación y atención al cliente. Macmillan Iberia, S.A.',
-      tipo: 'Libro',
-      descarga:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/42955',
-    },
-    {
-      tema: 'Objeciones',
-      referencia:
-        'Brachfield, P. (2019). Credit management: cómo conceder créditos a clientes y evitar los impagados. FC Editorial.',
-      tipo: 'Libro',
-      descarga:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/131011',
+        'JFK Cooperativa Financiera. (2019). Ley Habeas Data (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Hx7qjvNftfY',
     },
   ],
   glosario: [
@@ -286,14 +268,10 @@ export default {
     {
       referencia:
         'Blanco, G. C. (2013). Comunicación y atención al cliente. Macmillan Iberia, S.A.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/42955',
     },
     {
       referencia:
         'Brachfield, P. (2019). Credit management: cómo conceder créditos a clientes y evitar los impagados. FC Editorial.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/131011',
     },
     {
       referencia: 'Congreso de Colombia (2209) Ley 1329 de 2009',
@@ -311,8 +289,6 @@ export default {
     {
       referencia:
         'Morales Castro, J. A. y Castro, A. M. (2015). Crédito y cobranza. Grupo Editorial Patria.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/39380',
     },
     {
       referencia:

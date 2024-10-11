@@ -147,7 +147,7 @@
             p Existen diversos asuntos, para nuestro caso básicamente es la recuperación de cartera. 
           div(titulo="El clima humano ")
             p Podrían ser amistosas o polémicas. 
-          div(titulo="El clima humano ")
+          div(titulo="Los factores desencadenantes")
             p Clasificadas en: 
             ul.lista-ul--color
               li.d-flex.mb-1

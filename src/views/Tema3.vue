@@ -64,8 +64,6 @@
       .col-lg-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/38.svg', alt='')
       .col-lg-5
         p.mb-3(data-aos='fade-right') En la capacidad de pago, es importante tener en cuenta otro aspecto importante, y es el tipo de vivienda que tiene el cliente, si es propia y la está pagando o si es en arriendo o si por el contrario se encuentra libre de deuda. No se deben dejar de lado los servicios públicos o si tiene empleados de servicios o condiciones de servicios especiales. 
-        .tarjeta.p-4(style="background-color: #d2f5f4 ")
-          p.mb-0 Como complemento de esta temática, lo invitamos a consultar el capítulo 8 del libro Crédito y cobranza, el cual se encuentra en el material complementario. 
 
 </template>
 

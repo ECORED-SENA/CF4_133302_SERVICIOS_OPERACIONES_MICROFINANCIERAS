@@ -119,7 +119,6 @@
             h5.mb-0 Los impagos de los créditos comerciales otorgados a los clientes, son una amenaza para el crecimiento y supervivencia de las empresas. En los últimos años se está produciendo un importante repunte de la morosidad, se están incrementando los impagados de facturas y está aumentando el plazo de pago de los clientes
             i.fas.fa-quote-right(style='color: #201044' )
           p.text-end.d-block (Brachfield, 2019) 
-        p Para profundizar en esta forma de no pago y evitarlo, lo invitamos a consultar el capítulo 2 del libro #[b #[em Credit management:] cómo conceder créditos a clientes y evitar los impagados], el cual se encuentra en el material complementario. 
       .col-lg-4.col-7: img(src='@/assets/curso/temas/92.png', alt='')
         
           

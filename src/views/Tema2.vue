@@ -166,7 +166,7 @@
     Separador 
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.5  Informes 
-    p.mb-5(data-aos='fade-right') Los Informes de gestión de cobranzas permiten: 
+    p.mb-5(data-aos='fade-right') Los informes de gestión de cobranzas permiten: 
     .tarjeta.p-4(style="background-color: #e8faf9 ")
       .row.justify-content-center.align-items-center
         .col-lg-4.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/31.svg', alt='')
